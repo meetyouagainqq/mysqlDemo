@@ -12,6 +12,7 @@ public class MysqlTest {
     public static void main(String[] args) {
         findStudentByPage();
         System.out.println("hot-fix");
+        System.out.println("hot-fix123");
     }
 
     private static void findStudentByPage() {
