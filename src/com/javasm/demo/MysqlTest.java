@@ -12,6 +12,7 @@ public class MysqlTest {
     public static void main(String[] args) {
         findStudentByPage();
         System.out.println("master");
+        System.out.println("master123");
     }
 
     private static void findStudentByPage() {
