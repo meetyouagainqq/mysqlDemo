@@ -11,6 +11,9 @@ import java.util.Scanner;
 public class MysqlTest {
     public static void main(String[] args) {
         findStudentByPage();
+        System.out.println("hot-fix");
+        System.out.println("hot-fix123");
+        System.out.println("123");
         System.out.println("master");
         System.out.println("master123");
     }
