@@ -8,7 +8,7 @@ import java.util.Properties;
 public class DBUtil {
 
     private DBUtil() {
-
+         123
     }
 
     private static final Properties properties;
